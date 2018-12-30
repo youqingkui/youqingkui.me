@@ -87,6 +87,8 @@ nav:
   Home: .
   Archive: archives
 
+disqus_shortname: youqingkui-me
+
 widget:
   title: 关于本站
   content: <p align="center">分享与记录</p>  
