@@ -80,8 +80,8 @@ theme: Daily
 deploy:
   type:
 
-favicon: https://youqingkui.me/static/icons/favicon.ico
-logo: https://youqingkui.me/static/icons/favicon.ico
+favicon: https://home.youqingkui.me/static/icons/favicon.ico
+logo: https://home.youqingkui.me/static/icons/favicon.ico
 
 nav:
   Home: .
