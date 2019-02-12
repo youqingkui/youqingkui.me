@@ -4,7 +4,7 @@
 
 # Site
 title: 友情's 笔记
-subtitle:
+subtitle: 记录与分享
 description:
 keywords:
 author: youqingkui
@@ -91,7 +91,7 @@ disqus_shortname: youqingkui-me
 
 widget:
   title: 关于本站
-  content: <p align="center">分享与记录</p>  
+  content: <p align="right">记录中积累和思考，分享交流中学习和提高</p>  
 
 social:
   github: https://github.com/youqingkui  
