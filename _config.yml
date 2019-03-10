@@ -5,8 +5,8 @@
 # Site
 title: 友情's 笔记
 subtitle: 记录与分享
-description:
-keywords:
+description: 
+keywords: "树莓派" "HA" "Home Assistant" "智能家居" "Python"
 author: youqingkui
 language: zh-CN
 timezone:
@@ -94,4 +94,5 @@ widget:
   content: <p align="right">记录中积累和思考，分享交流中学习和提高</p>  
 
 social:
-  github: https://github.com/youqingkui  
+  github: https://github.com/youqingkui
+  mail: mailto:hyouqingkui@gmail.com  
